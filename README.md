@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warten-auf-ein-zeichen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Warten auf ein Zeichen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warten-auf-ein-zeichen/) |
+| **Get License** | [License this song: Warten auf ein Zeichen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warten-auf-ein-zeichen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Warten auf ein Zeichen, Baby, sag mir, bist du down?
+> Wir fliegen durch die Nacht, lass die Lichter in der Town.
+> Dein Blick ist wie ein Laser, durchdringt das Neonlicht,
+> Keine Zeit für falsche Spiele, heute Nacht will ich nur dich.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
